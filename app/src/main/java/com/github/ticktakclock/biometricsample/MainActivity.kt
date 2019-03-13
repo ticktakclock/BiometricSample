@@ -2,7 +2,7 @@ package com.github.ticktakclock.biometricsample
 
 import android.content.DialogInterface
 import android.hardware.biometrics.BiometricPrompt
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CancellationSignal
 import android.widget.Button

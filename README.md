@@ -9,19 +9,19 @@
 
 has no sensor.
 
-![api21](./api21_no_sensor.gif)
+<img src="./api21_no_sensor.gif" width="200px">
 
 ## API26
 
 has sensor.
 
-![api26](./api26_avilable_sensor.gif)
+<img src="./api26_avilable_sensor.gif" width="200px">
 
 ## API28
 
 has sensor.
 
-![api28](./api28_avilable_sensor.gif)
+<img src="./api28_avilable_sensor.gif" width="200px">
 
 # License
 

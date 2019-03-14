@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BiometricSample</string>
     <string name="start_auth">認証する</string>
+    <string name="start_auth_with_androidx">AnrdoidXで認証する</string>
 </resources>
